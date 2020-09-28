@@ -1,2 +1,1 @@
-# Dodgy-Devs
-Group Project through TLG
+# TLG_ReactNative_Project
